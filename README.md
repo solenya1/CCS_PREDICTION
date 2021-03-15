@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/github/solenya1/CCS_PREDICTION/blob/main/RC_MODEL.ipynb)
+
 # Prevendo a Resistência à Compressão do Concreto Utilizando Machine Learning
 
 
