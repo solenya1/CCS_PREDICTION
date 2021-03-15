@@ -18,8 +18,8 @@ Uma forma de amenizar esses problemas é tentando atravéz de uma combinação d
 
 ## Próximos passos
 
-[x] Melhorar leitura do arquivo com markdown
-[ ] verificar em box plot os outliers entre as features
-[ ] Verificar além do coef_R2 O RMSE de cada algoritmo
-[ ] Testar algoritmo random forest 
-[ ] Fazer deploy do algoritmo no streamlit
+- [x] Melhorar leitura do arquivo com markdown
+- [ ] verificar em box plot os outliers entre as features
+- [ ] Verificar além do coef_R2 O RMSE de cada algoritmo
+- [ ] Testar algoritmo random forest 
+- [ ] Fazer deploy do algoritmo no streamlit
