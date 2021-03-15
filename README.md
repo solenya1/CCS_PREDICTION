@@ -14,7 +14,7 @@ Uma forma de amenizar esses problemas é tentando atravéz de uma combinação d
 
 ## Confira o notebook
 
-[RC_MODEL NOTEBOOK](RC_MODEL.ipynb)
+[RC_MODEL NOTEBOOK](https://github.com/solenya1/CCS_PREDICTION/blob/main/RC_MODEL.ipynb)
 
 ## Próximos passos
 
