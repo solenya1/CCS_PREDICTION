@@ -3,7 +3,7 @@
 # Aplicação de métodos de aprendizado de máquina para determinar a resistência a compressão do concreto
 
 
-![image](https://www.dsigners.net/wp-content/uploads/2019/10/image1.jpg)
+![image](https://imgur.com/a/D6qgA5Z.jpg)
 
 Determinar a resistência à compressão do concreto implica a determinar a qualidade do concreto, normalmente para se obter a medida dessa resistência é realizado um teste de laboratório em que um equipamento mede essa resistência.
 
@@ -69,7 +69,7 @@ _6. Yeh, I-Cheng, "Analysis of strength of concrete using design of experiments 
 * [RC_MODEL NOTEBOOK](https://github.com/solenya1/CCS_PREDICTION/blob/main/RC_MODEL.ipynb) 
 >Notebook contém doda a parte de pré-processamento dos dados e análise juntamente com o teste realizado para verificar o melhor algoritmo separadamente.
 
-*[RC_MODEL_COMPRESSED](https://github.com/solenya1/CCS_PREDICTION/blob/main/RC_MODEL_COMPRESSED.ipynb) 
+* [RC_MODEL_COMPRESSED](https://github.com/solenya1/CCS_PREDICTION/blob/main/RC_MODEL_COMPRESSED.ipynb) 
 > Este notebook contém toda a parte de pré-processamento resumida e foca em explorar diferentes combinações de separação de dados para obter o melhor resultado. Digamos que possui um melhor trabalho no algoritmo escolhido para as predições.
 
 
