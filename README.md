@@ -3,7 +3,7 @@
 # Aplicação de métodos de aprendizado de máquina para determinar a resistência a compressão do concreto
 
 
-![image](https://imgur.com/a/D6qgA5Z.jpg)
+![image](https://antonygibbondesigns.com/wp-content/uploads/2019/12/04.jpg)
 
 Determinar a resistência à compressão do concreto implica a determinar a qualidade do concreto, normalmente para se obter a medida dessa resistência é realizado um teste de laboratório em que um equipamento mede essa resistência.
 
