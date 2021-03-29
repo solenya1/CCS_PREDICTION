@@ -10,7 +10,7 @@ Determinar a resistência à compressão do concreto implica a determinar a qual
 >Os problemas nesses testes são normalmente:
 >
 >    * O tempo de espera para a cura do material coletado que é por volta de 28 dias;
->   * A probabilidade de erro humano durante o processo.
+>    * A probabilidade de erro humano durante o processo.
     
 Uma forma de amenizar esses problemas é tentando atravéz de uma combinação de várias simulações digitais utilizando dados já obtidos de resistência tentar prever qual seria a resistência final em uma situação real para o menor tempo possivel utilizando algoritmos de aprendizado de máquina.
 
@@ -22,6 +22,5 @@ Uma forma de amenizar esses problemas é tentando atravéz de uma combinação d
 
 - [x] Melhorar leitura do arquivo com markdown
 - [x] verificar em box plot os outliers entre as features
-- [ ] Verificar além do coef_R2 O RMSE de cada algoritmo
-- [ ] Testar algoritmo random forest 
+- [x] Verificar além do coef_R2 O RMSE de cada algoritmo
 - [ ] Fazer deploy do algoritmo no streamlit
