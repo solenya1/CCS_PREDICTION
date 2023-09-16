@@ -72,6 +72,7 @@ _6. Yeh, I-Cheng, "Analysis of strength of concrete using design of experiments 
 * [RC_MODEL_COMPRESSED](https://github.com/solenya1/CCS_PREDICTION/blob/main/RC_MODEL_COMPRESSED.ipynb) 
 > Este notebook contém toda a parte de pré-processamento resumida e foca em explorar diferentes combinações de separação de dados para obter o melhor resultado. Digamos que possui um melhor trabalho no algoritmo escolhido para as predições.
 
+https://www.kaggle.com/code/shrikantchine/concrete-strength-prediction
 
  ## Próximos passos
 
